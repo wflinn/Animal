@@ -1,0 +1,5 @@
+public class allyssa extends Animal{
+    public void meow() {
+        super.speak("meow");
+    }
+}
